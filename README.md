@@ -2,4 +2,4 @@
 
 I have following projects running on GitHub:
 
-1. [Household Website](http://github.lfu.space/household_webpage/)
+1. [Household Website](http://github.lyuwenfu.info/household_webpage/)
