@@ -6,4 +6,4 @@ I have following projects running on GitHub:
 
 1. [WorkflowScripts](https://github.com/lyuwen/WorkflowScripts): A collection of iOS workflow scripts.
 
-1. [Household Website](http://github.lyuwenfu.info/household_webpage/)
+1. [Vimrc](https://github.com/lyuwen/vimrc): My Vim configuration
